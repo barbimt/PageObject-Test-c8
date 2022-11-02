@@ -4,7 +4,9 @@
   <artifactId>DigitalBooking</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <properties>
-  	<junit.juniper.version>5.8.2</junit.juniper.version>
+      <maven.compiler.target>17</maven.compiler.target>
+      <junit.juniper.version>5.8.2</junit.juniper.version>
+      <maven.compiler.source>17</maven.compiler.source>
   </properties>
   <dependencies>
     <dependency>
